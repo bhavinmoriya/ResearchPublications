@@ -1,5 +1,3 @@
----
-
 # Summary of Thesis: *Some Zero Sum Problems in Combinatorial Number Theory*
 
 **Author:** Bhavin K. Moriya
